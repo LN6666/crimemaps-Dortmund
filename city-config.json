@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "city": "dortmund",
+  "repository": "crimemaps-Dortmund",
+  "base_path": "/crimemaps-Dortmund/",
+  "artifact_budget_bytes": 900000000,
+  "publication_ready": false
+}
