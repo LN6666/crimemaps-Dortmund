@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "city": "dortmund",
+  "locale": "en",
+  "layout": "stacked",
+  "presentation": "world_map_and_rank",
+  "path": "docs/assets/visitors-by-country.en.mobile.svg",
+  "sha256": "cf7376a3d32ea4fee41f041abde3afcc50625898d24b2646d878e22f89463aeb",
+  "source_kind": "not_connected",
+  "collection_status": "not_connected",
+  "metric": null,
+  "source": null,
+  "generated_at_utc": null
+}
